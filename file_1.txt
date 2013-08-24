@@ -1,4 +1,4 @@
-1. editointi MUUTTUNUT RIVI
-2. editointi
+1. editointi MUUTTUNUT RIVI uusi muutos, 2. rivi poistettu
 3. editointi
 UUSI RIVI
+toinen uusi rivi
