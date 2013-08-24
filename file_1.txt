@@ -1,5 +1,6 @@
 1. editointi MUUTTUNUT RIVI uusi muutos, 2. rivi poistettu
 3. editointi MUUTOS
-UUSI RIVI
+UUSI RIVI wd muutos
 toinen uusi rivi
 3. UUSI
+wd uusi
