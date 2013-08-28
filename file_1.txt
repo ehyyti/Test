@@ -4,3 +4,5 @@ UUSI RIVI wd muutos
 toinen uusi rivi
 3. UUSI
 wd uusi
+Ubuntussa päivitys 1544
+
